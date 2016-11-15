@@ -1,0 +1,47 @@
+Top 20 words for 3+ Stars ratings.
+
+. 7431
+the 6987
+and 6821
+a 6365
+, 6147
+i 6064
+to 5847
+is 5085
+of 5061
+it 4947
+for 4888
+in 4855
+was 4095
+but 3974
+this 3808
+my 3802
+with 3720
+that 3680
+! 3655
+on 3631
+
+Top 20 words for 2- Stars ratings.
+
+. 2248
+the 2109
+and 2021
+to 1923
+a 1919
+i 1902
+, 1856
+was 1647
+it 1636
+of 1597
+for 1520
+in 1485
+is 1379
+this 1361
+that 1344
+not 1326
+n't 1303
+but 1299
+my 1236
+on 1195
+
+Time taken to completion of the metric: 9.94314530248 in processor time

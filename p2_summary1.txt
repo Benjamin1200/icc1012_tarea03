@@ -1,0 +1,47 @@
+Top 20 words for 3+ Stars ratings.
+
+(u'.', u'i') 38928
+(u'.', u'the') 33775
+(u',', u'and') 23345
+(u',', u'but') 21138
+(u'of', u'the') 19594
+(u'and', u'the') 19517
+(u'in', u'the') 18901
+(u'.', u'it') 16695
+(u'it', u"'s") 16339
+(u'it', u'was') 15903
+(u',', u'i') 15438
+(u'and', u'i') 15225
+(u'this', u'place') 14717
+(u'.', u'they') 13791
+(u'on', u'the') 12852
+(u'i', u'have') 12782
+(u'for', u'a') 12736
+(u'i', u'was') 12651
+(u'if', u'you') 12520
+(u'is', u'a') 11775
+
+Top 20 words for 2- Stars ratings.
+
+(u'.', u'i') 12865
+(u'.', u'the') 10177
+(u'it', u'was') 6468
+(u'in', u'the') 6440
+(u',', u'but') 6378
+(u'of', u'the') 6239
+(u',', u'and') 6140
+(u',', u'i') 5926
+(u'i', u'was') 5804
+(u'and', u'the') 5552
+(u'do', u"n't") 5068
+(u'and', u'i') 4896
+(u'to', u'the') 4837
+(u'.', u'it') 4781
+(u'on', u'the') 4637
+(u'this', u'place') 4605
+(u'to', u'be') 4572
+(u'for', u'the') 4371
+(u'for', u'a') 4327
+(u'did', u"n't") 4281
+
+Time taken to completion of the metric: 115.858378627 in processor time

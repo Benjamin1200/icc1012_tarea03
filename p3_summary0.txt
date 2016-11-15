@@ -1,0 +1,47 @@
+Top 20 words for 3+ Stars ratings.
+
+. 7431
+, 6147
+! 3655
+'s 3551
+n't 3208
+good 3013
+place 2871
+great 2740
+food 2452
+) 2369
+( 2254
+like 2038
+get 2004
+one 1921
+go 1797
+time 1771
+would 1713
+service 1705
+also 1656
+really 1596
+
+Top 20 words for 2- Stars ratings.
+
+. 2248
+, 1856
+n't 1303
+'s 1031
+food 891
+place 842
+would 772
+like 760
+get 735
+one 732
+! 727
+service 696
+( 670
+back 667
+good 664
+) 662
+time 639
+go 608
+even 584
+'' 542
+
+Time taken to completion of the metric: 299.175021587 in processor time

@@ -1,0 +1,47 @@
+Top 20 words for 3+ Stars ratings.
+
+. 2008608
+the 1888234
+and 1875192
+a 1643547
+i 1601473
+, 1583491
+to 1537206
+is 1305858
+of 1283949
+it 1276403
+for 1265706
+in 1202669
+was 1187749
+! 1140592
+this 1050349
+my 1023627
+with 994316
+but 981175
+that 908630
+on 895858
+
+Top 20 words for 2- Stars ratings.
+
+. 536564
+the 510018
+and 489009
+to 464309
+i 454198
+a 453061
+, 424797
+was 405422
+it 382200
+for 374019
+of 369605
+in 351232
+not 333368
+this 329697
+is 323852
+that 318525
+n't 312062
+my 306066
+but 305211
+they 300403
+
+Time taken to completion of the metric: 2718.27574554 in processor time

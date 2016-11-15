@@ -1,0 +1,47 @@
+Top 20 words for 3+ Stars ratings.
+
+. 74280
+the 69537
+and 69101
+a 61686
+i 59975
+, 59806
+to 57169
+is 49577
+of 48632
+for 48105
+it 47452
+in 45789
+was 39859
+my 38221
+this 38081
+! 38032
+but 37309
+with 36572
+that 34926
+have 34732
+
+Top 20 words for 2- Stars ratings.
+
+. 21504
+the 20297
+and 19519
+to 18483
+i 18301
+a 18192
+, 17268
+was 15723
+it 15155
+of 14907
+for 14748
+in 14302
+this 13154
+not 13097
+is 12944
+that 12847
+my 12532
+n't 12349
+but 11999
+they 11728
+
+Time taken to completion of the metric: 93.3192574668 in processor time
